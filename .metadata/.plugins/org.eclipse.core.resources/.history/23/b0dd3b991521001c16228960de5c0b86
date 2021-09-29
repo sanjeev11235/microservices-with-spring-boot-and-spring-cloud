@@ -1,10 +1,9 @@
 spring.application.name=limits-service
 spring.config.import=optional:configserver:http://localhost:8888
-#it will just shows that dev profile is active but doesn't change value at runtime
+
 spring.profiles.active=dev
 #it will reflect which profile choosed in console
 spring.cloud.config.profile=dev
-#if you want to change default name of service you can 
-#spring.cloud.config.name=
+
 limits-service.minimum=3
 limits-service.maximum=997
