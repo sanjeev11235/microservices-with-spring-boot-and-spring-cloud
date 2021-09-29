@@ -1,0 +1,6 @@
+package com.rest.webservices.restfullwebservices.versioning;
+
+public class Name {
+
+	private Name name;
+}

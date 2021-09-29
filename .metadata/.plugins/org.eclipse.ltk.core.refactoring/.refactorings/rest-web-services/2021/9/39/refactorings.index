@@ -1,0 +1,15 @@
+1632206923941	Delete element
+1632206941395	Rename package 'com.rest.webservices.restwebservices'
+1632206963610	Rename type 'RestWebServicesApplication'
+1632289564348	Move compilation unit
+1632289570248	Delete element
+1632303604848	Extract local variable 'findOne'
+1632380966108	Copy file
+1632381295793	Copy file
+1632381432361	Rename resource 'message.properties'
+1632381444218	Rename resource 'message_fr.properties'
+1632381509986	Copy file
+1632480720006	Extract local variable 'list'
+1632481153052	Copy compilation unit
+1632481172007	Copy compilation unit
+1632554382310	Copy compilation unit

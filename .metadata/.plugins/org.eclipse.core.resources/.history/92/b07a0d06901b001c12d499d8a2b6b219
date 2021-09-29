@@ -1,0 +1,5 @@
+package com.rest.webservices.restfullwebservices.exception;
+
+public class CustomizedResponseEntityExceptionHandler {
+
+}
