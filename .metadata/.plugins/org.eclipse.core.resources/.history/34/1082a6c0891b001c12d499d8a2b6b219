@@ -1,5 +1,0 @@
-package com.rest.webservices.restfullwebservices.user;
-
-public class UserNotFoundException extends RuntimeException {
-
-}
